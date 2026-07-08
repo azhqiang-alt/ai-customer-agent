@@ -210,7 +210,7 @@ MIT License
 
 ## Author
 
-Maintained by **Jack Zhang**
+Maintained by **Jack**
 
 GitHub:
 
